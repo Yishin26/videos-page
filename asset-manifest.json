@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.d404195e.chunk.js",
-  "main.js.map": "/static/js/main.d404195e.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.aa7a0768.chunk.js": "/static/js/2.aa7a0768.chunk.js",
-  "static/js/2.aa7a0768.chunk.js.map": "/static/js/2.aa7a0768.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.4c2ea47dc7e5187e5df5e587337cfe40.js": "/precache-manifest.4c2ea47dc7e5187e5df5e587337cfe40.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/videos-page/static/js/main.d404195e.chunk.js",
+  "main.js.map": "/videos-page/static/js/main.d404195e.chunk.js.map",
+  "runtime~main.js": "/videos-page/static/js/runtime~main.a6d49c7d.js",
+  "runtime~main.js.map": "/videos-page/static/js/runtime~main.a6d49c7d.js.map",
+  "static/js/2.aa7a0768.chunk.js": "/videos-page/static/js/2.aa7a0768.chunk.js",
+  "static/js/2.aa7a0768.chunk.js.map": "/videos-page/static/js/2.aa7a0768.chunk.js.map",
+  "index.html": "/videos-page/index.html",
+  "precache-manifest.821bc6a2669091b00a8a19965e4e2ae7.js": "/videos-page/precache-manifest.821bc6a2669091b00a8a19965e4e2ae7.js",
+  "service-worker.js": "/videos-page/service-worker.js"
 }
