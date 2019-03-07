@@ -1,0 +1,17 @@
+.video-item{
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+    padding: 10pt !important;
+}
+
+
+.video-item.item img{
+    max-width: 180px;
+    margin-right: 10pt !important;
+}
+
+.video-item:hover{
+    background-color: rgba(170, 173, 172, 0.5);
+    
+}
